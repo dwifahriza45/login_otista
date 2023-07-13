@@ -1,0 +1,18 @@
+.hide {
+    display: none;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+div.dataTables_wrapper {
+    margin-bottom: 3em;
+}
+
+.bg-landing {
+    background-image: url("../img/landing/bg.png");
+    background-size: contain; 
+    background-repeat:no-repeat; 
+    background-position: left;
+}
